@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Amazon",
+    "ethicalScore": "Low",
+    "issues": [
+      "\ud83d\udcb0 Jeff Bezos donated $10M to conservative PACs",
+      "\ud83d\udea8 Union-busting tactics and warehouse labor violations",
+      "\ud83c\udf0d High environmental impact and lobbying against climate legislation"
+    ],
+    "alternatives": [
+      {
+        "name": "Bookshop.org",
+        "reason": "\ud83d\udcda Supports indie bookstores"
+      },
+      {
+        "name": "Thrive Market",
+        "reason": "\ud83e\udd55 More sustainable and ethical sourcing"
+      }
+    ]
+  },
+  {
+    "name": "Target",
+    "ethicalScore": "Medium",
+    "issues": [
+      "\ud83d\udcb8 Political donations to both sides, including $500K to GOP-aligned groups",
+      "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Rolled back Pride merchandise under pressure",
+      "\ud83d\udcbc Criticized for wage disparities in some states"
+    ],
+    "alternatives": [
+      {
+        "name": "Public Goods",
+        "reason": "\ud83e\uddfc Eco-friendly and transparent practices"
+      },
+      {
+        "name": "Package Free Shop",
+        "reason": "\ud83c\udf31 Supports sustainability and zero-waste"
+      }
+    ]
+  }
+]
